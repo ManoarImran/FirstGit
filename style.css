@@ -1,0 +1,14 @@
+.parent_div{
+    position: relative;
+}
+.child_div{
+    position: absolute;
+    bottom: 13%;
+    left: 10%;
+    background-color: wheat;
+  color: rgb(215, 23, 23);
+  width: 130px;
+  height: 130px;
+  border-radius: 65px;
+}
+
